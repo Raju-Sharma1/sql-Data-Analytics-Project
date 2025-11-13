@@ -2,6 +2,9 @@
 ==================================
 ADVANCED DATA ANALYTICS PROJECT
 ==================================
+
+These scripts follows key analytic metrics of the dim_products, dim_customers and fact_sales
+--------------------------------------------------------------------------------------------
 */
 
 /*
