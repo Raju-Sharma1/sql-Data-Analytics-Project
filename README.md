@@ -8,6 +8,6 @@ SQL scripts for data exploration, analytics, and reporting. These scripts cover 
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 🌟 Credit : https://www.blog.datawithbaraa.com/
+### 🌟 Credit : Udemy
 
 Thanks to Baraa for Project idea, Datasets and Tutorial
